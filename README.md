@@ -1,7 +1,9 @@
  # Feature Flag Management System for Elisa Oyj
  
  > A scalable feature flag management system built through team collaboration, with the goal of improving release control, 
-safety, and speed without heavy production deployment cycles.  
+safety, and speed without heavy production deployment cycles.
+> The solution follows the **OpenFeature standard** to support interoperable and vendor-neutral feature flag 
+management. 
  > **Source code is private due to a client non-disclosure agreement (NDA).**
  
  ## Project Background
