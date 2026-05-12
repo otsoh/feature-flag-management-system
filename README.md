@@ -5,7 +5,11 @@ safety, and speed without heavy production deployment cycles.
 > The solution follows the **OpenFeature standard** to support interoperable and vendor-neutral feature flag 
 management. 
  > **Source code is private due to a client non-disclosure agreement (NDA).**
- 
+
+ ## Reference / Product Owner
+ > "Great job! I'm looking forward to getting the Feature Flag system integrated into our services soon."
+ > — **[Santeri Auvinen](https://www.linkedin.com/in/santeri-auvinen-7234552/)**, Product Owner at Elisa Oyj
+
  ## Project Background
  
  In Elisa’s environment, we needed a unified way to manage features across projects:
